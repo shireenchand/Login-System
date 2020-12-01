@@ -1,1 +1,1 @@
-{'sample': 'pwd', 'julie': 'project', 'nihar': 'python'}
+{'sample': 'pwd'}
