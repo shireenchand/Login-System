@@ -10,6 +10,4 @@ You can use your own text file with this program.
 
 
 NOTE: Make sure the data in your text file is in the form of a dictionary. If you are using a new text file then just copy the contents of the text file 
-I have provided or you will get this file as it is once you clone the repository. Feel free to create issues, I'll check them for sure.
-
-Hope you like it!!!
+I have provided or you will get this file as it is once you clone the repository.
